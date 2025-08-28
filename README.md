@@ -12,7 +12,7 @@ The tables are split into three categories: **data**, **links**, and **additiona
 
 ---
 
-## 1. Data Tables (Core Entities)
+## Data Tables (Core Entities)
 
 ### `players.csv`
 
@@ -51,7 +51,7 @@ Stores metadata about competitions and leagues.
 * `countryid` (country code ID)
 ---
 
-## 2. Link Tables (Relationships)
+## Link Tables (Relationships)
 
 ### `teamplayerlinks.csv`
 
@@ -74,7 +74,7 @@ Links **teams ↔ leagues**, with standings and form.
 * `leagueid` (FK → leagues.csv)
 ---
 
-## 3. Additional Tables (Enrichment)
+## Additional Tables (Enrichment)
 
 ### `models.csv`
 
