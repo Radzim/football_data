@@ -1,8 +1,5 @@
 # Football Data
 EA FC 25 Data for Pandas workshop
-
-Got it — here’s a **README.md** draft for your dataset, focused on relational schema and important ID fields:
-
 ---
 
 # Database Schema Overview
