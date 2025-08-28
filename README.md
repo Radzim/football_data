@@ -2,8 +2,6 @@
 
 EA FC 25 Data for Pandas workshop
 
-Database Schema Overview
-
 This dataset contains football-related entities (players, teams, leagues) along with linking tables and external enrichment data.
 The tables are split into three categories: **data**, **links**, and **additional**.
 
