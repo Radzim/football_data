@@ -46,6 +46,15 @@ Stores metadata about competitions and leagues.
 * `countryid` (country code ID)
 ---
 
+### `countries.csv`
+
+Stores metadata about competitions and leagues.
+**Key columns:**
+
+* `countryid` (primary key, internal country ID)
+* `countryname`
+---
+
 ## Relationships
 
 ### `teamplayerlinks.csv`
