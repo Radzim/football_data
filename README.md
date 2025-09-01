@@ -19,7 +19,7 @@ Stores all in-game player attributes, ratings, and metadata.
 * `overallrating` (integer, 1-99)
 * `potential` (integer, 1-99)
 * Attribute ratings: `freekickaccuracy`, `composure`, `strength`, etc.
-* `preferredposition1`, `preferredposition2`, … (positions like ST, CM, CB)
+* `preferredposition1`, `preferredposition2`, … (positions codes)
 * `nationality` (integer code for country)
 * `birthdate`, `height`, `weight`
 
