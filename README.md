@@ -6,6 +6,7 @@ This dataset contains football-related entities (players, teams, leagues) along 
 The tables are split into three categories: **data**, **links**, and **additional**.
 
 Data credit: EA Sports and sofifa.com
+
 For educational use only
 
 ---
